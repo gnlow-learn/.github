@@ -1,3 +1,162 @@
+## content
+- Programming Language
+  - csharp
+  - haskell
+  - python
+  - rust
+  - wasm
+  - c
+  - sql
+  - julia
+  - fortran
+  - rulebook
+  - sparql
+- Web-ish
+  - lib/etc.
+    - codemirror
+    - prisma
+    - git-protocol
+    - octokit
+    - sqlite
+    - isomorphic-git
+    - baklava
+    - g9
+    - arrow-js
+    - lsp
+    - cxsd
+    - rxjs
+    - tlsh
+    - entryjs
+  - PL
+    - elm
+    - rescript
+    - svelte5
+    - imba
+  - TS/JS Meta
+    - ts-transformer
+    - jsx-factory
+    - deno_emit
+    - swc
+    - packup
+    - ts-factory
+    - ts-morph
+    - typebox
+    - zod
+    - ts-patch
+    - ts-vfs
+    - prepack
+  - Web/JS API
+    - web-components
+    - js-temporal
+    - pwa
+    - css-houdini
+    - IndexedDB
+    - highlight-api
+    - service-worker
+    - file
+  - Deno
+    - fresh
+    - deno-kv
+    - deno-jupyter
+    - astral
+- GPU/Rendering/Parallel Computing
+  - pixi
+  - pixi-2
+  - webgpu
+  - opengl
+  - TypeGPU
+  - openlayers-webgpu
+  - gpu.js
+  - ic
+- Music
+  - music
+- Prover/Logic
+  - z3
+  - prolog
+  - tau-prolog
+  - trealla-js
+  - sentential-logic
+  - term-rewriting
+  - logica
+  - lean
+  - datalogui
+- Parser/Interpreter
+  - gf
+  - lalrpop
+  - pest
+  - interpreter
+  - parser-combinator
+  - parser
+  - double-e
+  - langium
+  - volar
+  - chevrotain
+  - lezer
+- Font/Vector
+  - ufo-0
+  - ufo-1
+  - metafont
+  - fontra
+  - spiro-js
+- Language
+  - chinese
+- ML/Data/NLP
+  - tensorflow
+  - orange3
+  - scipy
+  - koalanlp
+  - Kiwi
+  - jandas
+  - tfjs
+- Math
+  - General
+    - burnside-lemma
+    - voronoi
+    - markov
+    - diffEq
+    - newton-raphson
+    - gradient-descent
+    - prob-dist
+    - dp
+  - CS
+    - fft
+    - cellular-automata
+    - alpha-beta-pruning
+    - data-distance
+    - k-NN
+    - huffman
+  - ProcGen/Model
+    - SimpleHydrology
+    - gillespie
+    - amaral-meyer
+    - egt
+    - hotelling
+    - agmop
+    - gompertz
+    - nominate
+- GIS/Map
+  - leaflet
+  - nodelink
+  - bus-data
+  - kml
+  - nodelink-2
+- Graph
+  - Cytoscape.js
+  - sigma.js
+- Sound
+  - vvvf
+  - web-audio-api
+- System
+  - asm
+  - SystemVerilog
+  - sic
+  - rpi
+- Semantic Web
+  - barnard59
+  - oxigraph
+  - csvw
+  - eye
+
 ## memo
 - Map: use `OpenLayers` over `leaflet`
 - Graph: use `sigma` over `cytoscape`
