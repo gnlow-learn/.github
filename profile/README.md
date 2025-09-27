@@ -1,30 +1,31 @@
 ## content
+❤️: very interesting
 - Programming Language
   - csharp
   - haskell
   - python
   - rust
-  - wasm
+  - wasm ❤️
   - c
   - sql
   - julia
   - fortran
   - rulebook
-  - sparql
+  - sparql ❤️
 - Web-ish
   - lib/etc.
     - codemirror
     - prisma
     - git-protocol
     - octokit
-    - sqlite
+    - sqlite ❤️
     - isomorphic-git
     - baklava
-    - g9
-    - arrow-js
+    - g9 ❤️
+    - arrow-js ❤️
     - lsp
     - cxsd
-    - rxjs
+    - rxjs ❤️
     - tlsh
     - entryjs
   - PL
@@ -41,31 +42,31 @@
     - ts-factory
     - ts-morph
     - typebox
-    - zod
+    - zod ❤️
     - ts-patch
-    - ts-vfs
-    - prepack
+    - ts-vfs ❤️
+    - prepack ❤️
   - Web/JS API
     - web-components
     - js-temporal
     - pwa
     - css-houdini
     - IndexedDB
-    - highlight-api
+    - highlight-api ❤️
     - service-worker
     - file
   - Deno
     - fresh
     - deno-kv
-    - deno-jupyter
-    - astral
+    - deno-jupyter ❤️
+    - astral ❤️
 - GPU/Rendering/Parallel Computing
   - pixi
   - pixi-2
   - webgpu
   - opengl
-  - TypeGPU
-  - openlayers-webgpu
+  - TypeGPU ❤️
+  - openlayers-webgpu ❤️
   - gpu.js
   - ic
 - Music
@@ -78,7 +79,7 @@
   - sentential-logic
   - term-rewriting
   - logica
-  - lean
+  - lean ❤️
   - datalogui
 - Parser/Interpreter
   - gf
@@ -87,17 +88,17 @@
   - interpreter
   - parser-combinator
   - parser
-  - double-e
+  - double-e ❤️
   - langium
   - volar
   - chevrotain
-  - lezer
+  - lezer ❤️
 - Font/Vector
   - ufo-0
   - ufo-1
-  - metafont
+  - metafont ❤️
   - fontra
-  - spiro-js
+  - spiro-js ❤️
 - Language
   - chinese
 - ML/Data/NLP
@@ -112,7 +113,7 @@
   - General
     - burnside-lemma
     - voronoi
-    - markov
+    - markov ❤️
     - diffEq
     - newton-raphson
     - gradient-descent
@@ -126,13 +127,13 @@
     - k-NN
     - huffman
   - ProcGen/Model
-    - SimpleHydrology
+    - SimpleHydrology ❤️
     - gillespie
     - amaral-meyer
-    - egt
-    - hotelling
+    - egt ❤️
+    - hotelling ❤️
     - agmop
-    - gompertz
+    - gompertz ❤️
     - nominate
 - GIS/Map
   - leaflet
@@ -142,7 +143,7 @@
   - nodelink-2
 - Graph
   - Cytoscape.js
-  - sigma.js
+  - sigma.js ❤️
 - Sound
   - vvvf
   - web-audio-api
@@ -153,9 +154,9 @@
   - rpi
 - Semantic Web
   - barnard59
-  - oxigraph
+  - oxigraph ❤️
   - csvw
-  - eye
+  - eye ❤️
 
 ## memo
 - Map: use `OpenLayers` over `leaflet`
